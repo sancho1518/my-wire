@@ -1,0 +1,33 @@
+.first-col{
+    background-color: slategrey;
+    text-align: right;
+    color: white;
+    height: 78px;
+    margin-top: 5px;
+}
+
+.all-col{
+    background-color: lightblue;
+    color: rgb(12, 11, 11)
+}
+
+.last-col{
+    background-color: lightsalmon;
+    color: rgb(252, 247, 247);
+    height: 80px;
+    text-align: center;
+    border: 1px solid gray;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 50px;
+    line-height: 78px;
+    color: #333333;
+    background-color: #fff;
+}
+
+.sec-col{ 
+    border: 1px solid lightslategray;
+}
+
+

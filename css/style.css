@@ -1,0 +1,43 @@
+.navbar-nav > li > a {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.carousel-content{
+    height: 550px;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.thumbnail {
+    display: block;
+    padding: 4px;
+    margin-bottom: 20px;
+    line-height: 18px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    -webkit-transition: border 0.2s ease-in-out;
+    -o-transition: border 0.2s ease-in-out;
+    transition: border 0.2s ease-in-out;
+}
+
+.head-content{
+    padding-top: 60px;
+}
+
+.footer{
+    background-color: blue;
+    color: white;
+    margin: 20px;
+    height: 70hv;
+}
+.head{
+    color: red;
+}
+
+.head2{
+    color: greenyellow;
+
+}
